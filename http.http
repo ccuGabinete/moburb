@@ -1,0 +1,7 @@
+GET  http://localhost:3000/?action=getNameRotas
+Content-Type: application/json
+
+{
+   "rotaid":"08d01"
+}
+
